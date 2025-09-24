@@ -12,8 +12,9 @@ The system leverages **Convolutional Neural Networks (CNNs)** to analyze MRI ima
 
 ## Screenshots
 
-![Input and Prediction](./"Screenshot 2025-09-24 130803.png")
-![Tumor Highlighted](./"Screenshot 2025-09-24 130813.png")
+![Input and Prediction](./Screenshot%202025-09-24%20130803.png)
+![Tumor Highlighted](./Screenshot%202025-09-24%20130813.png)
+
 
 
 The detected tumor area is highlighted for easier visualization and clinical interpretation.  
