@@ -12,8 +12,9 @@ The system leverages **Convolutional Neural Networks (CNNs)** to analyze MRI ima
 
 ## Screenshots
 
-![Input and Prediction](./Screenshot%202025-09-24%20130803.png)
-![Tumor Highlighted](./Screenshot%202025-09-24%20130813.png)
+![Input and Prediction](./Brain-Tumor-Detector-Deep-Learning-And-Computer-Vision/Screenshot%202025-09-24%20130803.png)
+![Tumor Highlighted](./Brain-Tumor-Detector-Deep-Learning-And-Computer-Vision/Screenshot%202025-09-24%20130813.png)
+
 
 
 
